@@ -1,3 +1,11 @@
+/*
+============================================================================
+Name : 20.c
+Author : sumit singh
+Description : Find out the priority of your running program. Modify the priority with nice command.
+Date: 10 september, 2023.
+============================================================================
+*/
 #include<unistd.h>
 #include<stdio.h>
 #include<fcntl.h>

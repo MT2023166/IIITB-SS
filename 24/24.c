@@ -1,3 +1,11 @@
+/*
+============================================================================
+Name : 24.c
+Author : sumit singh
+Description : Write a program to create an orphan process.
+Date: 10 september, 2023.
+============================================================================
+*/
 #include<unistd.h>
 #include<stdio.h>
 #include<stdlib.h>

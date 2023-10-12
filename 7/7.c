@@ -1,3 +1,11 @@
+/*
+============================================================================
+Name : 7.c
+Author : sumit singh
+Description : Write a program to copy file1 into file2 ($cp file1 file2).
+Date: 10 september, 2023.
+============================================================================
+*/
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>

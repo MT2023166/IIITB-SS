@@ -1,3 +1,11 @@
+/*
+============================================================================
+Name : 28.c
+Author : sumit singh
+Description : Write a program to get maximum and minimum real time priority.
+Date: 10 september, 2023.
+============================================================================
+*/
 #include<sched.h>
 #include<stdio.h>
 

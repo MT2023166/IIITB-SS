@@ -1,3 +1,13 @@
+/*
+============================================================================
+Name : writelock.c
+Author : sumit singh
+Description : Write a program to perform mandatory locking.
+a. Implement write lock
+b. Implement read lock
+Date: 10 september, 2023.
+============================================================================
+*/
 #include<stdio.h>
 #include<fcntl.h>
 #include<unistd.h>

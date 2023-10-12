@@ -1,3 +1,12 @@
+/*
+============================================================================
+Name : 8.c
+Author : sumit singh
+Description : Write a program to open a file in read only mode, read line by line and display each line as it is read.
+Close the file when end of file is reached.
+Date: 10 september, 2023.
+============================================================================
+*/
 #include<stdio.h>
 #include<unistd.h>
 #include <sys/types.h>

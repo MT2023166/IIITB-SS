@@ -1,3 +1,11 @@
+/*
+============================================================================
+Name : 23.c
+Author : sumit singh
+Description : Write a program to create a Zombie state of the running program.
+Date: 10 september, 2023.
+============================================================================
+*/
 #include<unistd.h>
 #include<stdio.h>
 #include<stdlib.h>

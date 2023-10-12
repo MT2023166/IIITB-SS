@@ -1,3 +1,11 @@
+/*
+============================================================================
+Name : 21.c
+Author : sumit singh
+Description : Write a program, call fork and print the parent and child process id.
+Date: 10 september, 2023.
+============================================================================
+*/
 #include<stdio.h>
 #include<unistd.h>
 
